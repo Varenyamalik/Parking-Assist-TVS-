@@ -1,0 +1,2 @@
+Forward mode: Max speed: 10
+Forward mode: Min speed: 5
